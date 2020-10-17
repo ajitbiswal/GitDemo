@@ -14,4 +14,14 @@ public class AppiumTest {
 		System.out.println("ios");
 	}
 
+	@Test
+	public void annoride1() {
+		System.out.println("annoride");
+	}
+
+	@Test
+	public void ios1() {
+		System.out.println("ios");
+	}
+	
 }
